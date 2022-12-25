@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karcan Ozturk</h1>
 <h3 align="center">A passionate RPA / Mobile Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1Iirkc7ENr3rU0EfqGuWZJ&ust=1672055530896000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC4sLHalPwCFQAAAAAdAAAAABAE">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karcanozturk&label=Profile%20views&color=0e75b6&style=flat" alt="karcanozturk" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [Work in progress...](Work in progress...)
+- 👨‍💻 All of my projects are available at [Work in progress...]
 
 - 📝 I regularly write articles on [https://medium.com/@karcanozturk1](https://medium.com/@karcanozturk1)
 
